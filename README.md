@@ -1,26 +1,26 @@
-# 🚀 MyAwesomeProject  
+# 🚀 Zip The Assassin V2.0
 
-MyAwesomeProject is a cutting-edge solution designed to simplify [problem you're solving]. This project integrates [specific technologies/tools] to deliver an efficient, scalable, and user-friendly experience.  
+Script Ini Digunakan Untuk melakukan brute fotce pada file seperti [.zip .7z .tar], Dan juga bisa menduplikat file secara persis dan mirip, Kami membuat Tools ini dengan Cinta🥰, Gunakan dengan bijak dan etis..!
 
-[![License](https://img.shields.io/github/license/your-username/MyAwesomeProject)](LICENSE)  
-[![Contributors](https://img.shields.io/github/contributors/your-username/MyAwesomeProject)](https://github.com/your-username/MyAwesomeProject/graphs/contributors)  
-[![Issues](https://img.shields.io/github/issues/your-username/MyAwesomeProject)](https://github.com/your-username/MyAwesomeProject/issues)  
-[![Stars](https://img.shields.io/github/stars/your-username/MyAwesomeProject?style=social)](https://github.com/your-username/MyAwesomeProject/stargazers)  
+[![License](https://img.shields.io/github/license/REYHAN6610/ZipCracked)](LICENSE)  
+[![Contributors](https://img.shields.io/badge/Donate-Buy_me_a_coffee-yellow?logo=kofi&logoColor=white)](https://saweria.co/reyhantanpahutang)  
+[![Issues](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@rendyx_solo-player)  
+[![Stars](https://img.shields.io/github/stars/REYHAN6610/ZipCracked?style=social)](https://github.com/REYHAN6610)  
 
 ---
 
 ## 🌟 Features  
 
-- 🔥 Feature 1: [Brief description]  
-- 🚀 Feature 2: [Brief description]  
-- 🎯 Feature 3: [Brief description]  
+- 🔥 Feature 1: [Crazy brute force automatic]  
+- 🚀 Feature 2: [Manual brute force .zip]  
+- 🎯 Feature 3: [Duplicate zip files with 98% similarity]  
 
 ---
 
 ## 🛠️ Technologies Used  
 
-- **[Technology/Tool Name]**: [Brief reason why it's used]  
-- **[Another Technology]**: [Purpose in the project]  
+- **[Zip The Assassin]**: [This script is made to do brute force on .zip .7z and .tar files.]  
+- **[By using technology like python with aes security]**: [Created on Monday, January 19, 2025]  
 
 ---
 
@@ -30,10 +30,15 @@ Clone this repository and follow the steps below to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/MyAwesomeProject.git
+git clone https://github.com/REYHAN6610/ZipCracked
 
 # Navigate to the project directory
-cd MyAwesomeProject
+cd ZipCracked
 
 # Install dependencies
-npm install
+pkg update
+pkg upgrade
+pkg install python -y
+pkg install bash -y
+pip install -r nobe.txt
+bash run.sh
