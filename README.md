@@ -29,6 +29,7 @@ Script Ini Digunakan Untuk melakukan brute fotce pada file seperti [.zip .7z .ta
 Clone this repository and follow the steps below to get started:  
 
 ```bash
+pkg install git -y
 # Clone the repository
 git clone https://github.com/REYHAN6610/ZipCracked
 
